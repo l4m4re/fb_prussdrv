@@ -9,7 +9,7 @@ compile with
 /dts-v1/;
 
 / {
-	compatible = "ti,beaglebone", "ti,beaglebone-black";
+	compatible = "ti,beaglebone", "ti,beaglebone-black", "ti,beaglebone-green";
 	part-number = "PRUSSDRV";
 	version = "00A0";
 
