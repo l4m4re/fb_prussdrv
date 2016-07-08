@@ -1,0 +1,17 @@
+fb-prussdrv-0.20160708 for Debian
+---------------------------------
+
+Source:
+
+https://github.com/l4m4re/fb_prussdrv
+
+Forked from:
+
+https://github.com/DTJF/fb_prussdrv
+
+Since I moved the patches DTFJ applied to pasm to the pasm package and
+applied some patches (a/o for the BeagleBone Green) I decided to use my
+own github repository for this package.
+
+
+
