@@ -1,5 +1,5 @@
 Source: fb-prussdrv-0.20160708
-Section: unknown
+Section: dev
 Priority: extra
 Maintainer: Arend Lammertink <lamare@gmail.com>
 Build-Depends: debhelper (>= 8.0.0)
@@ -10,6 +10,6 @@ Homepage: <insert the upstream URL, if relevant>
 
 Package: fb-prussdrv-0.20160708
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}, lamake, fbc
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
