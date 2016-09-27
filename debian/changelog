@@ -1,3 +1,9 @@
+fb-prussdrv-0.20160708 (1~l4m4re) wheezy; urgency=low
+
+  * Recompiled for wheezy
+
+ -- Arend Lammertink <lamare@gmail.com>  Tue, 27 Sep 2016 19:20:08 +0000
+
 fb-prussdrv-0.20160708 (1~l4m4re) unstable; urgency=low
 
   * Initial Release.
