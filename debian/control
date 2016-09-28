@@ -1,4 +1,4 @@
-Source: fb-prussdrv-0.20160708
+Source: fb-prussdrv
 Section: dev
 Priority: extra
 Maintainer: Arend Lammertink <lamare@gmail.com>
@@ -8,8 +8,8 @@ Homepage: <insert the upstream URL, if relevant>
 #Vcs-Git: git://git.debian.org/collab-maint/fb-prussdrv-0.20160708.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/fb-prussdrv-0.20160708.git;a=summary
 
-Package: fb-prussdrv-0.20160708
+Package: fb-prussdrv
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, lamake, fbc
+Depends: ${shlibs:Depends}, ${misc:Depends}, lamake, freebasic
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
