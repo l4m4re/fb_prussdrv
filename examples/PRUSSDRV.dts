@@ -7,6 +7,7 @@ compile with
    dtc -O dtb -o PRUSSDRV-00A0.dtbo -b 0 -@ PRUSSDRV.dts
 */
 /dts-v1/;
+/plugin/;
 
 / {
 	compatible = "ti,beaglebone", "ti,beaglebone-black", "ti,beaglebone-green";
